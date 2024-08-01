@@ -1,0 +1,16 @@
+{
+    "name": "il4mb/mhub",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MHub\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "il4mb",
+            "email": "durianbohong@gmail.com"
+        }
+    ],
+    "require": {}
+}
